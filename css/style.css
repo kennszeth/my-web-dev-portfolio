@@ -136,6 +136,8 @@ img[alt*="capstone"] {
 .item {
   position: relative;
   overflow: hidden;
+height:350px;
+width:477px;
 }
 
 .item:hover img  {
